@@ -17,4 +17,5 @@ def update():
         #moves box 3 pixels to the right in every frame
     box.x +=5
     box2.x  +=5
+    
 pgzrun.go()
